@@ -7,7 +7,7 @@ title: Paul Kiessling
 superuser: true
 
 # Role/position
-role: 'role'
+role: 'PhD student'
 
 # Status emoji
 #status:
@@ -15,7 +15,7 @@ role: 'role'
 
 # Organizations/Affiliations
 organizations:
-- name: org
+- name: Kuppelab RWTH University Aachen
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
