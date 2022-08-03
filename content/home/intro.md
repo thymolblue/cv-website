@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-Hi, there! I'm **Paul**, a machine learning researcher at Netflix.
+Hi, there! I'm **Paul**, I use single cell and spatial transcriptomics to help our understanding of heart and kidney diseases
 {style="font-size: 1.2rem; background: #FFFFFF; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
